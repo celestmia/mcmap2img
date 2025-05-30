@@ -1,0 +1,10 @@
+[package]
+name = "mcmap2img"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+fastnbt = "2.5.0"
+flate2 = "1.1.1"
+png = "0.17.16"
+serde = "1.0.219"
